@@ -1,0 +1,18 @@
+{
+  "name": "arc-example-tonic",
+  "version": "0.0.1",
+  "description": "example of using arc with tonic.technology",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arc"
+  ],
+  "author": "Fil Maj",
+  "license": "MIT",
+  "dependencies": {
+    "@architect/architect": "^4.5.6",
+    "@architect/functions": "^1.12.1"
+  }
+}
